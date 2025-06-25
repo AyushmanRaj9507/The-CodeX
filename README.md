@@ -19,6 +19,14 @@ CodeX is a scalable full-stack EdTech platform that enables seamless interaction
 
 ---
 
+## 🌐 Live Demo
+
+- **Frontend (Vercel)**: [Click here](https://the-code-x.vercel.app/)
+- **Backend (Render)**: [Click here](https://the-codex-tvrm.onrender.com)
+
+---
+
+
 ## 📦 Tech Stack
 
 *Frontend*: React.js, Tailwind CSS, Redux, Swiper.js, Chart.js  
@@ -40,3 +48,34 @@ npm run dev
 ---
 
 ## 🔜 Next Step: Render Deployment
+
+---
+
+## ⚙️ Installation
+
+```bash
+# Clone the repo
+git clone https://github.com/AyushmanRaj9507/The-CodeX.git
+cd The-CodeX
+
+# Setup Client
+cd client
+npm install
+npm start
+
+# Setup Server
+cd ../server
+npm install
+npm run dev
+
+
+---
+
+## ✅ 2. **Push README Changes to GitHub**
+
+If you updated locally, push it:
+
+```bash
+git add README.md
+git commit -m "Updated README with project details"
+git push origin main
